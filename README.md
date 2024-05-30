@@ -287,13 +287,13 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 
-- [ ] [Paths in Maze That Lead to Same Room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/)
+- [ ] [Paths in Maze That Lead to Same Room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/) [Premium]
 
 - [ ] [Clone Graph](https://leetcode.com/problems/clone-graph)
 
-- [ ] [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
+- [x] [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) [Premium]
 
-- [ ] [Bus Routes](https://leetcode.com/problems/bus-routes/)
+- [ ] [Bus Routes](https://leetcode.com/problems/bus-routes/) [Premium]
 
 ## Tree Depth First Search
 
