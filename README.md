@@ -285,7 +285,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Graphs
 
-- [ ] [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
+- [x] [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 
 - [ ] [Paths in Maze That Lead to Same Room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/)
 
