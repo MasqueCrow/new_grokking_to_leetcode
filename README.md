@@ -311,8 +311,6 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
 
-- [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
-
 - [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
 
 - [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
@@ -323,6 +321,8 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Tree Breadth First Search
 
+- [x] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+      
 - [ ] [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
 - [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
