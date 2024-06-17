@@ -47,13 +47,13 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 ## Two Pointers
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
-- [ ] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
+- [x] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
 
 - [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
 - [x] [Sort Colors](https://leetcode.com/problems/sort-colors/) 
 
-- [ ] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+- [x] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 
 - [x] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 
