@@ -30,11 +30,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 ## Sliding Window
 - [x] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
 
-- [ ] [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-substring/)
+- [ ] [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/) [Premium]
 
 - [x] [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [x] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
 - [x] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 
